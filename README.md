@@ -13,7 +13,7 @@ Check whether TrollStore is available for your iPhone
 
 [Opa334](https://mobile.twitter.com/opa334dev) (TrollStore)
 
-[SAUCE COMPANY](m.blog.naver.com/sauce2011])
+By [SAUCE COMPANY](m.blog.naver.com/sauce2011])
 
 # Source:
 
