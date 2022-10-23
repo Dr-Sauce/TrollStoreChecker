@@ -20,4 +20,4 @@ By [SAUCE COMPANY](m.blog.naver.com/sauce2011])
 
 # Source:
 
-[u/gianflo6](https://www.reddit.com/r/shortcuts/comments/fnp34c/comment/flbjtzm/) (Get Device Model + Version 2)
+[u/gianflo6](https://www.reddit.com/r/shortcuts/comments/fnp34c/comment/flbjtzm/) (Get Device Model + Version)
