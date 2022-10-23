@@ -14,7 +14,7 @@ Check whether TrollStore is available for your iPhone.
 
 2. Open the Shortcut. 
 
-# Tested on: (Doesn't mean much)
+# Tested on:
 - iPhone X(US) with iOS 15.0
 - iPhone XR(China) with iOS 16.0.2
 - iPad 7th generation(South Korea) with iOS 15.7
