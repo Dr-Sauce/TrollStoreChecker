@@ -14,7 +14,7 @@ Check whether TrollStore is available for your iPhone
 
 # Credits:
 
-[Opa334](https://github.com/opa334) [TrollStore](https://github.com/opa334/TrollStore)
+[Opa334](https://github.com/opa334) ([TrollStore](https://github.com/opa334/TrollStore))
 
 By [SAUCE COMPANY](m.blog.naver.com/sauce2011])
 
