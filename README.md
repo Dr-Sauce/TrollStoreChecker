@@ -4,7 +4,7 @@ Check whether TrollStore is available for your iPhone.
 
 **Note:** TrollStore Checker cannot check whether TrollStore is available on iOS beta versions. 
 
-**Note2:** TrollStore Checker shows wrong results on certain language iPhones. (English, Korean works well.)
+**Note2:** TrollStore Checker shows wrong results if your iPhone is set to certain languages. (English, Korean works well.)
 
 <img width="150" alt="7B86B403-60B4-4255-9F02-F2CC693DD6A1" src="https://user-images.githubusercontent.com/82555878/197333210-428913ba-c8d0-476b-9ae8-c3b981e73f2f.png">
 
