@@ -16,10 +16,11 @@ Check whether TrollStore is available for your iPhone.
 
 # Credits:
 
-[Opa334](https://github.com/opa334) ([TrollStore](https://github.com/opa334/TrollStore))
+[Opa334](https://github.com/opa334) for [TrollStore](https://github.com/opa334/TrollStore)
+
 
 By [SAUCE COMPANY](m.blog.naver.com/sauce2011])
 
-# Source:
+[u/gianflo6](https://www.reddit.com/r/shortcuts/comments/fnp34c/comment/flbjtzm/) (Version check)
 
-[u/gianflo6](https://www.reddit.com/r/shortcuts/comments/fnp34c/comment/flbjtzm/) (Get Device Model + Version)
+[u/nyuszika7h](https://www.reddit.com/user/nyuszika7h) (Get beta versions)
