@@ -2,7 +2,7 @@
 
 Check whether TrollStore is available for your iPhone.
 
-TrollStore Checker now supports all languages and iOS beta versions.
+TrollStore Checker now supports all languages and iOS beta versions. (Massive shoutout to [u/gianflo6](https://www.reddit.com/user/gianflo6) and [u/nyuszika7h](https://www.reddit.com/user/nyuszika7h).)
 
 <img width="150" alt="7B86B403-60B4-4255-9F02-F2CC693DD6A1" src="https://user-images.githubusercontent.com/82555878/197333210-428913ba-c8d0-476b-9ae8-c3b981e73f2f.png">
 
