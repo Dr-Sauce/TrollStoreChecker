@@ -1,4 +1,4 @@
-# TrollStoreChecker
+# TrollStore Checker
 
 Check whether TrollStore is available on your iPhone. And install TrollStore with a few taps.
 
