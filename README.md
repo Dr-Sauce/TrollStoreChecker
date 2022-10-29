@@ -1,6 +1,6 @@
 # TrollStore Checker
 
-Check whether TrollStore is available on your iPhone. And install TrollStore with a few taps.
+Check whether TrollStore is available on your iPhone and install TrollStore with a few taps if available.
 
 TrollStore Checker now supports iOS beta versions, works with devices with any language. (Massive shoutout to [u/gianflo6](https://www.reddit.com/user/gianflo6) and [u/nyuszika7h](https://www.reddit.com/user/nyuszika7h).)
 
