@@ -16,7 +16,7 @@ TrollStore Checker now supports iOS beta versions, works with devices with any l
 
 # Credits:
 
-Dr. Sauce ([SAUCE COMPANY](https://m.blog.naver.com/saucecompany_]))
+Dr. Sauce ([SAUCE COMPANY](https://m.blog.naver.com/saucecompany_))
 
 [u/gianflo6](https://www.reddit.com/r/shortcuts/comments/fnp34c/comment/flbjtzm/) (Version check)
 
