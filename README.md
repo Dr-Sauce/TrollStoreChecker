@@ -8,7 +8,7 @@ Special thanks to [u/gianflo6](https://www.reddit.com/user/gianflo6) for helping
 
 # How to install:
 
-1. Go to [releases](https://github.com/Dr-Sauce/TrollStoreChecker/releases) and download the latest version.
+1. Go to [releases](https://github.com/Dr-Sauce/TrollStoreChecker/releases/latest) and download the latest version.
 
 2. Open the Shortcut. 
 
