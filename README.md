@@ -1,6 +1,6 @@
 # TrollStore Checker
 
-[TrollStore](https://github.com/opa334/TrollStore) is a tool that allows you to sideload apps permanently. Check whether TrollStore is available on your iPhone and install it with a few taps.
+[TrollStore](https://github.com/opa334/TrollStore) is a tool that allows you to sideload apps permanently. Check whether TrollStore is available for your iPhone and install it with a few taps.
 
 Special thanks to [u/gianflo6](https://www.reddit.com/user/gianflo6) for helping me and giving feedback..!
 
