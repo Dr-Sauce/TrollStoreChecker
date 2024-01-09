@@ -18,7 +18,7 @@ Check whether TrollStore is available for your iPhone and install it with a few 
 
 [u/gianflo6](https://www.reddit.com/user/gianflo6) - Provided the main logic for TrollStore Checker 1.0~1.2.2.
 
-[u/nyuszika7h](https://www.reddit.com/user/nyuszika7h) - Helped add iOS beta support.
+[u/nyuszika7h](https://www.reddit.com/user/nyuszika7h) - Helped add iOS beta support in TrollStore Checker 1.0~1.2.2.
 
 # Source:
 
