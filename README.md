@@ -25,3 +25,5 @@ Check whether TrollStore is available for your iPhone and install it with a few 
 [Installing TrollStore](https://ios.cfw.guide/installing-trollstore/) ([iOS CFW Guide](https://ios.cfw.guide))
 
 [Get Device Model + Version 2](https://www.reddit.com/r/shortcuts/comments/fnp34c/comment/flbjtzm/) ([u/gianflo6](https://www.reddit.com/user/gianflo6))
+
+[Shortcut Updater](https://github.com/Dr-Sauce/ShortcutUpdater) ([Dr-Sauce](https://github.com/Dr-Sauce))
