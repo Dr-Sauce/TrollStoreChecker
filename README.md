@@ -2,7 +2,7 @@
 
 [TrollStore](https://github.com/opa334/TrollStore) is a tool that allows you to sideload apps permanently. 
 
-Check whether TrollStore is available for your iPhone and install it with a few taps.
+Check whether TrollStore is available for your iPhone.
 
 <img width="150" alt="7B86B403-60B4-4255-9F02-F2CC693DD6A1" src="https://user-images.githubusercontent.com/82555878/197333210-428913ba-c8d0-476b-9ae8-c3b981e73f2f.png">
 
@@ -11,6 +11,13 @@ Check whether TrollStore is available for your iPhone and install it with a few 
 1. Go to [releases](https://github.com/Dr-Sauce/TrollStoreChecker/releases/latest) and download the latest version.
 
 2. Open Shortcut. 
+
+# Notice:
+TrollStore Checker hasn't been updated for a while so the results in some cases may not be correct. TrollStore Checker will give wrong results if your device is..
+- an A8 device. (TrollStore Checker will give wrong install method)
+- iOS 17.0. (TrollStore Checker will say TrollStore is coming soon even though TrollStore is now installable via [TrollRestore](https://ios.cfw.guide/installing-trollstore-trollrestore/))
+
+I'll be updating TrollStore Checker when I have time. In the mean time check [this](https://ios.cfw.guide/installing-trollstore/) site.
 
 # Credits:
 
