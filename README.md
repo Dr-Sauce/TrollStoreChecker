@@ -1,8 +1,8 @@
 # TrollStore Checker
 
-[TrollStore](https://github.com/opa334/TrollStore) is a tool that allows you to sideload apps permanently. Check whether TrollStore is available for your iPhone.
+[TrollStore](https://github.com/opa334/TrollStore) is a tool that allows you to sideload apps permanently. Check whether TrollStore is compatible for your iPhone.
 
-Designed to work on iOS 15. (But also works on other versions)
+<sub>\* A8 devices are not supported.</sub>
 
 <img width="150" alt="7B86B403-60B4-4255-9F02-F2CC693DD6A1" src="https://user-images.githubusercontent.com/82555878/197333210-428913ba-c8d0-476b-9ae8-c3b981e73f2f.png">
 
