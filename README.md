@@ -2,7 +2,7 @@
 
 Check if your iPhone supports [TrollStore](https://github.com/opa334/TrollStore).
 
-Provides the installation method for your iPhone with a few taps, even if it only supports [TrollStore Lite](https://havoc.app/package/trollstorelite).
+Provides the installation method for your iPhone in a few taps, even if it only supports [TrollStore Lite](https://havoc.app/package/trollstorelite).
 
 <img width="100" alt="7B86B403-60B4-4255-9F02-F2CC693DD6A1" src="https://user-images.githubusercontent.com/82555878/197333210-428913ba-c8d0-476b-9ae8-c3b981e73f2f.png">
 
