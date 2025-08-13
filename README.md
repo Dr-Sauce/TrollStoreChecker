@@ -6,7 +6,7 @@ Provides the installation method for your iPhone with a few taps, even if it onl
 
 <img width="100" alt="7B86B403-60B4-4255-9F02-F2CC693DD6A1" src="https://user-images.githubusercontent.com/82555878/197333210-428913ba-c8d0-476b-9ae8-c3b981e73f2f.png">
 
-# How to install:
+# Install:
 
 1. Go to [Releases](https://github.com/Dr-Sauce/TrollStoreChecker/releases/latest).
 2. Open iCloud link and press **Add Shortcut**.
